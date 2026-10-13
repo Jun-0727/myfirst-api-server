@@ -53,3 +53,4 @@ kubectl apply -f k8s/service.yaml
 test READDME.md
 test READDME.md
 touch README.md
+test CI/CD  README.md
